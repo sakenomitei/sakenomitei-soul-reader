@@ -1,5 +1,6 @@
 # sakenomitei-soul-reader
-
+repo/
+  main.py
 # Soul Reader
 
 小説を入力すると、
